@@ -1,0 +1,9 @@
+{
+  "[project]/components/monaco-editor.tsx [app-client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/monaco-editor.tsx [app-client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/_39f5353f._.js",
+      "static/chunks/components_monaco-editor_tsx_523422ae._.js"
+    ]
+  }
+}
